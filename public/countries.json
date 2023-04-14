@@ -1,0 +1,44 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "label": "AFN",
+      "value": "AFN"
+    },
+    {
+      "id": 2,
+      "label": "ALL",
+      "value": "ALL"
+    },
+    {
+      "id": 3,
+      "label": "LAK (₭)",
+      "value": "LAK"
+    },
+    {
+      "id": 4,
+      "label": "LKR (Rs)",
+      "value": "LKR"
+    },
+    {
+      "id": 5,
+      "label": "MKD (ден)",
+      "value": "MKD"
+    },
+    {
+      "id": 6,
+      "label": "MUR (Rs)",
+      "value": "MUR"
+    },
+    {
+      "id": 7,
+      "label": "MZN (MT)",
+      "value": "MZN"
+    },
+    {
+      "id": 8,
+      "label": "INR (Rs)",
+      "value": "INR"
+    }
+  ]
+}

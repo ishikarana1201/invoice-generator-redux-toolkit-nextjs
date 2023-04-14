@@ -1,0 +1,6 @@
+Packages used : 
+1. npm i @reduxjs/toolkit
+2.npm i bootstrap
+3.npm i react-redux
+4.npm install --save @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome
+5.npm i redux-persist -to Persist and rehydrate a redux store
